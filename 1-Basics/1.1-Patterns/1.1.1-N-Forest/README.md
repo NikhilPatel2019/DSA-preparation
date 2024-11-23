@@ -1,9 +1,8 @@
-[text](https://www.naukri.com/code360/problems/n-forest_6570177)
+Problem Link: [N-Forest](https://www.naukri.com/code360/problems/n-forest_6570177)
 
-## N-Forest Pattern Generator
+## [N-Forest](https://www.naukri.com/code360/problems/n-forest_6570177)
 
 This document describes a JavaScript function that generates an n x n square pattern of asterisks.
-
 
 **N-Forest Pattern Generator**: 
 Write a JavaScript function that generates an n x n square pattern of asterisks (`*`). The function should take a single integer input `n`, which represents both the number of rows and columns in the square pattern.
@@ -12,9 +11,9 @@ Write a JavaScript function that generates an n x n square pattern of asterisks 
 Input: ‘N’ = 3
 
 Output: 
-* * *
-* * *
-* * *
+`* * *`
+`* * *`
+`* * *`
 
 ### Intuition
 
